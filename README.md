@@ -6,7 +6,7 @@
 <!--
 **lollykrown/lollykrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+--->
 ✨ I'm a fullstack engineer with passion from creativity and innovation. I am based in Lagos, Nigeria. 
 
 Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: NodeJs, PHP and Android java
