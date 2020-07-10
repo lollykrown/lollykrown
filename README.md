@@ -12,7 +12,7 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 
 - 🔭 I’m currently working on a nodeJs App
 - 🌱 I’m currently learning Deno
-- 👯 I’m looking to collaborate on PHP, node or deno
+- 👯 I’m looking to collaborate on any <strong>PHP, node or deno project.</strong>
 - 🤔 I’m looking for help with PHP
 - 💬 Ask me about nodeJs
 - 📫 How to reach me: @lollykrown on twitter
