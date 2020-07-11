@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Lollykrown</h3>
+<h2 align="center">👋 Hi there! I'm Lollykrown</h2>
 <p align="center">
   <a href="https://lollykrown.xyz">Website</a> •
   <a href="https://twitter.com/lollykrown">Twitter</a>
