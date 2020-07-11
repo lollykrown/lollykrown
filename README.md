@@ -8,7 +8,7 @@
 -->
 ✨ I'm a fullstack engineer with passion from creativity and innovation. I am based in Lagos, Nigeria. 
 
-Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: NodeJs, PHP and Android java
+Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: NodeJs, PHP and Android java.
 
 - 🔭 I’m currently working on a nodeJs App
 - 🌱 I’m currently learning in Deno land
