@@ -16,5 +16,5 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about nodeJs
 - 📫 How to reach me: @lollykrown on twitter or the email on my profile
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: When you find it hard to fix a bug in your code, leave it for some time and go to sleep. When you wake, you might wake up with the solution.
