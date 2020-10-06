@@ -7,6 +7,8 @@
 **lollykrown/lollykrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<h2>About Me:</h2>
+
 ✨ I'm a fullstack engineer with passion for creativity & innovation. I am based in Lagos, Nigeria. 
 
 Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: NodeJs, PHP and Android java.
@@ -23,12 +25,4 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When you find it hard to fix a bug in your code, leave it for some time and go to sleep. When you wake, you might wake up with the solution.
 
-
-<h2>About Me:</h2>
-
-<p>I'm a Frontend Developer, currently focussing on ReactJS. I'm a constantly learning new things .I do Frontend Mentor Challenges whose code you can find on my github repositories and I recently started CSS arts which you can check out on Codepen. I code all through out the week and on weekends I replace my keyboard ⌨ with a keyboard 🎹 and the monitor 🖥 with a book 📖.Let's be friends on  <a href="https://www.goodreads.com/namratapdr"><img src="https://img.shields.io/badge/-Goodreads-%23463020?&style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads"/></a></p>
-
-<p><br>🌱 I’m currently learning: <strong>React</strong> <img src="https://github.com/namratapdr/namratapdr/blob/master/react.png" alt="react-icon"/><br></p>
- <p>🔭I’m currently working on : <strong>My portfolio</strong></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namratapdr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
