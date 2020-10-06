@@ -12,9 +12,10 @@
 ✨ I'm a fullstack engineer with passion for creativity & innovation. I am based in Lagos, Nigeria. 
 
 Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: NodeJs, PHP and Android java.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
 
 📫 How to reach me: <br>
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lollykrown) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lollykrown/) [<img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>](https://www.linkedin.com/in/kayode-agboola) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lollykrown) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lollykrown/) [<img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>](https://www.linkedin.com/in/kayodeagboola) 
 
 - 🔭 I’m currently working on a nodeJs App.
 - 🌱 I’m currently learning in Deno land.
@@ -24,5 +25,3 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 - 📫 How to reach me: @lollykrown on twitter or the email on my profile
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When you find it hard to fix a bug in your code, leave it for some time and go to sleep. When you wake, you might wake up with the solution.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
