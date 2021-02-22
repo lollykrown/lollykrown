@@ -11,7 +11,7 @@
 
 ✨ I'm a fullstack engineer with passion for creativity & innovation. I am based in Lagos, Nigeria. 
 
-Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: MERN, PHP and Android java.
+Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: MERN and Android java.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
 
