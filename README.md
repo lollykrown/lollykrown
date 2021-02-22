@@ -21,7 +21,7 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 
 - 🔭 I’m currently working on a nodeJs App.
 - 🌱 I’m currently learning in Deno land.
-- 👯 I’m looking to collaborate on any node, PHP or deno project.</strong>
+- 👯 I’m looking to collaborate on any node or deno project.</strong>
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about nodeJs
 - 📫 How to reach me: @lollykrown on twitter or the email on my profile
