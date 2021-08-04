@@ -1,14 +1,6 @@
 <h2 align="center">👋 Hi there, I'm Lollykrown</h2>
 
 <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&show=commits&show_icons=true&theme=gret-gatsby)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center">
-  
-  
-[![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&show=commits&show_icons=true&theme=gret-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</p>
-
 
 <p align="center">
   <a href="https://lollykrown.xyz">Website</a> •
@@ -24,7 +16,9 @@
 
 Also, I am a frontline health care personnel. You may wonder how i juggle the two, trust me it's fun. I am available for any remote gig. Stack: MERN and Android java.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
+ -->
+ [![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&show=commits&show_icons=true&theme=gret-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📫 How to reach me: <br>
