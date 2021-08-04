@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi there, I'm Lollykrown</h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lollykrown&repo=github-readme-stats)](https://github.com/lollykrown/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&hide=commits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://lollykrown.xyz">Website</a> •
