@@ -1,9 +1,9 @@
 <h2 align="center">👋 Hi there, I'm Lollykrown</h2>
 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&hide=commits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<a href="https://github.com/anuraghazra/convoychat">
+[![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&hide=commits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lollykrown&repo=convoychat" />
-</a>
+</a> -->
 
 
 <p align="center">
