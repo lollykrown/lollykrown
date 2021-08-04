@@ -18,7 +18,7 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollykrown&layout=compact)](https://github.com/lollykrown/github-readme-stats)
  -->
- [![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&show=commits&show_icons=true&theme=gret-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+ [![My Stats](https://github-readme-stats.vercel.app/api?username=lollykrown&show=commits&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📫 How to reach me: <br>
