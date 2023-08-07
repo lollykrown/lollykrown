@@ -25,9 +25,8 @@ Also, I am a frontline health care personnel. You may wonder how i juggle the tw
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lollykrown) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lollykrown/) [<img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>](https://www.linkedin.com/in/kayodeagboola) 
 
 - 🔭 I’m currently working on a MERN App.
-- 🌱 I’m currently learning Web3.
-- 👯 I’m looking to collaborate on web3 project.</strong>
+- 👯 I’m looking to collaborate.</strong>
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about nodeJs
+- 💬 Ask me about nodeJs or nextJs
 - 📫 How to reach me: @lollykrown on twitter or the email on my profile
 - 😄 Pronouns: He/Him
